@@ -13,8 +13,6 @@ Key categories of work include:
 - **Web & UI Design** – User interface mockups and web graphics that combine aesthetics with usability.  
 - **Illustration & Iconography** – Original illustrations and icon sets that add a unique, personal touch.  
 
-Each project in the portfolio is chosen to be a “best of” example, telling the story of the designer’s brand and capabilities.
-
 ## Tools & Technologies  
 The designs in this portfolio are created with industry-standard tools and platforms, ensuring polished, professional-quality results.
 
