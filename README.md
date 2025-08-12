@@ -1,6 +1,5 @@
 # travi3s615 Graphic Design Portfolio
 
-## Introduction  
 This repository is a professional portfolio showcasing the graphic design work of **travi3s615**. It highlights a variety of creative projects to demonstrate the designer’s skills and experience. The purpose of this portfolio is to give potential employers insight into the designer’s artistic vision, talent, and skills. By curating select high-quality pieces, it emphasizes a strong visual style and attention to detail. The work spans multiple media (print, digital, branding, etc.), illustrating versatility in visual communication.
 
 ## Portfolio Highlights  
